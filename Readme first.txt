@@ -4,7 +4,7 @@ This project using jsonplaceholder. You must do these before starting npm , ente
 
 npx json-server --watch src/api/movies.json --port 5000
 
-After doing this, you can start npm.
+After doing this, you can start npm or yarn.
 
 Türkçe :
 
